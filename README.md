@@ -1,1 +1,1 @@
-<a href="https://github.com/Carneade/Monads-and-their-applications/blob/master/monads.pdf">Monads and their applications</a>
+<a href="stuff/monads.pdf">Monads and their applications</a>
