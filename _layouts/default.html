@@ -14,28 +14,34 @@
   
   
   <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+     
+    <div id="about"></div>
+    <nav class="sticky navbar" style="text-align: center;">
+        <ul class="navbar-list">
+            <li class="navbar-name">
+                <a href="#about">Nicola Di Vittorio</a>
+            </li>
+        </ul>
+    <!-- Primary Page Layout
+    –––––––––––––––––––––––––––––––––––––––––––––––––– --></nav>
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+    <nav class="navbar" style="text-align: center;">
+        <ul class="navbar-list">
+            <li class="navbar-item">
+                Home
+            </li>
+            <li class="navbar-item">
+                <a href="#research">Research</a>
+            </li>
+            <li class="navbar-item">
+                <a href="#notes">Teaching</a>
+            </li>
+            <li class="navbar-item">
+                <a href="#contacts">Contact</a>
+            </li>
+        </ul>
+    </nav>
 
-        
-      </header>
-      <link href="https://fonts.googleapis.com/css?family=Arvo&display=swap" rel="stylesheet">
-
-<nav role="navigation" class="primary-navigation"> <ul class="navbar-list">
-  <ul>
-    <li><a href="#">Home</a></li>
-    <li><a href="#">Research</a></li>
-    <li><a href="#">Teaching</a></li>
-    <li><a href="#">Contact</a></li>
-  </ul>
-</nav>
       <section>
 
       {{ content }}
