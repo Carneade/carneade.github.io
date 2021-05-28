@@ -2,6 +2,6 @@
   url: https://github.com/divittorio
   icon: fab fa-github
   
-- title: email
-  (mailto:divittorio.nicola@hotmail.it)
-  icon: fas fa-at
+- title: Email
+  Template: mailto:divittorio.nicola@hotmail.it
+  icon: far fa-envelope fa-fw
