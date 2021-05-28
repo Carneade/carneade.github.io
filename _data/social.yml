@@ -3,5 +3,5 @@
   icon: fab fa-github
   
 - title: Email
-  Template: mailto:divittorio.nicola@hotmail.it
+  url: mailto:divittorio.nicola@hotmail.it
   icon: far fa-envelope fa-fw
