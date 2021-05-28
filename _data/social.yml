@@ -1,3 +1,7 @@
 - title: GitHub
   url: https://github.com/divittorio
   icon: fab fa-github
+  
+- title: email
+  url: divittorio.nicola@hotmail.it 
+  icon: fas fa-at
