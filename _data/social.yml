@@ -5,3 +5,8 @@
 - title: Email
   url: mailto:nicola.divittorio.1@gmail.com
   icon: far fa-envelope fa-fw
+
+- title: Telegram
+  prefix: https://t.me/
+  url: The_Man_From_Another_Place
+  icon: fab fa-telegram-plane fa-fw
