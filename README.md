@@ -1,6 +1,6 @@
 ---
 title: Notes
-layout: home
+layout: default
 filename: index.md
 --- 
 
