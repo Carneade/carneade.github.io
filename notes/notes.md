@@ -9,4 +9,3 @@ filename: notes.md
 
 <a href="Monads2.pdf">Here</a> are some notes about 2-monads based on dr. Schäppi's <a href="https://www-app.uni-regensburg.de/Fakultaeten/MAT/Hellus/KVV_2/abruflink.php?id=804">course</a> at <i>Universität Regensburg</i> (j/w M. Durante).
 
-[link](stuff/monads.pdf)
