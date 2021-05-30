@@ -1,6 +1,6 @@
 ---
 title: Notes
-layout: minima
+layout: template
 filename: index.md
 --- 
 
